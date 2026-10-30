@@ -1,6 +1,9 @@
-# Startup Prototyping Skills
+# Skills
 
-Three Claude skills based on FOR-M's "Workshop 2: Your Solution and Prototype" deck.
+Paul's Claude skills, grouped by topic. Each skill is a folder with a `SKILL.md` (and sometimes a `references/` folder).
+
+## entrepreneurship
+Based on FOR-M's "Workshop 2: Your Solution and Prototype."
 
 | Skill | Use it for |
 |---|---|
@@ -10,6 +13,12 @@ Three Claude skills based on FOR-M's "Workshop 2: Your Solution and Prototype" d
 
 Suggested order: problem-worth-solving, then solution-options, then mvp-experiment-designer.
 
+## milwaukee
+| Skill | Use it for |
+|---|---|
+| `milwaukee-tech-ecosystem` | Finding Milwaukee investors, incubators, coworking, AI training, networking groups, and workforce partners. Adapted from the MKE Tech Hub "#mketech Resource Guide." |
+
 ## Install
-- **Claude Code:** copy a skill folder into `~/.claude/skills/` (personal) or `.claude/skills/` (per project).
-- **Claude app:** zip a single skill folder and upload it under Settings > Capabilities > Skills.
+Skills are discovered one level deep, so copy the **skill folder itself**, not its topic folder:
+- **Claude Code:** `cp -r skills/milwaukee/milwaukee-tech-ecosystem ~/.claude/skills/` (or `.claude/skills/` in a project)
+- **Claude app:** zip a single skill folder and upload it under Settings > Capabilities > Skills
