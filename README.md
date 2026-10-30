@@ -25,9 +25,13 @@ Offer-design skills based on Alex Hormozi's *$100M Offers*, written in my own wo
 
 Suggested order: market-check, then grand-slam-offer-builder, then offer-enhancers, then value-equation-audit. The audit also works on its own for an existing offer. These fit after `solution-options` (who pays) and before `mvp-experiment-designer` (test it).
 
-Other Hormozi skills worth a look:
-- [zacker-tech/hormozi-skills](https://github.com/zacker-tech/hormozi-skills): 10 skills covering *$100M Offers*, *$100M Leads*, and *$100M Money Models*
-- [alex-hormozi-pitch](https://github.com/microck/ordinary-claude-skills): interactive `/create-hormozi-pitch` offer builder (in microck/ordinary-claude-skills)
+Related: [zacker-tech/hormozi-skills @ 44c8382](https://github.com/zacker-tech/hormozi-skills/tree/44c83820a55ff53fe4f48bd9306659c22b6a358f) has 10 skills covering *$100M Offers*, *$100M Leads*, and *$100M Money Models*. That commit was reviewed on 2026-10-30: Markdown only, with no scripts, hooks, or network calls. Install that exact commit rather than the latest:
+
+```bash
+git clone https://github.com/zacker-tech/hormozi-skills.git ~/.claude/plugins/hormozi-skills
+cd ~/.claude/plugins/hormozi-skills && git checkout 44c83820a55ff53fe4f48bd9306659c22b6a358f
+```
+Re-review it before moving to a newer commit.
 
 ## milwaukee
 | Skill | Use it for |
