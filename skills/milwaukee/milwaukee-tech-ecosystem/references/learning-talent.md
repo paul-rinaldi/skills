@@ -21,7 +21,7 @@ Snapshot from the MKE Tech Hub "#mketech Resource Guide," with links found in Oc
 | Name | Link | Notes |
 |---|---|---|
 | FUSE | https://mketech.org | MKE Tech's 2-week AI bootcamp for college students. Runs in sprints. |
-| i.c.stars Milwaukee | https://www.icstars.org/Milwaukee | Tech training and placement for young adults. Unconfirmed whether the Milwaukee site is still running. |
+| i.c.stars Milwaukee | https://www.icstars.org/Milwaukee | Tech training and placement for young adults. |
 | MKE Tech Job Board | https://mketech.org | See also ChooseMKETech.org |
 
 ## Upskilling for employers

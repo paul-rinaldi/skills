@@ -5,7 +5,7 @@ Snapshot from the MKE Tech Hub "#mketech Resource Guide," with links found in Oc
 ## Investors
 | Name | Link | Notes |
 |---|---|---|
-| Character Capital | https://character.vc | Unconfirmed match: "Character" is a Bay Area fund, and its Milwaukee tie couldn't be verified |
+| Character Capital | https://www.character.vc | "Character" fund |
 | Clarevia Ventures | https://www.clarevia.com | Formerly Venture Investors (renamed May 2026) |
 | Gateway Capital | https://gatewaycapital.co | Milwaukee VC that invests in underrepresented founders |
 | Golden Angels Investors | https://goldenangelsinvestors.com | Angel network |
